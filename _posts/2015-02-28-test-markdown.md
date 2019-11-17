@@ -1,14 +1,19 @@
 ---
 layout: post
-title: Test markdown
-subtitle: Each post also has a subtitle
+title: Anee the great!!
+subtitle: How Anee solves all problem
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
-
-You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll will automatically convert it to a nice webpage.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](http://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
+1. Anee is always cheerful and active
+2. Anee gets job done in time
+3. Anee takes responibility
+4. Anee never complains (sometimes)
+5. Anee is fun and very intelligent 
+6. Anee cooks tasty food (post some training)
+7. Anee is there for me
 
 **Here is some bold text**
 
