@@ -1,7 +1,7 @@
 ---
-layout: post
-title: First post!
+layout: Hello Anee ?
+title: Dont be angry !
 image: /img/hello_world.jpeg
 ---
 
-This is my first post, how exciting!
+This is my sorry post!
