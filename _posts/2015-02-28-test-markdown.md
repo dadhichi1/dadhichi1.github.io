@@ -18,5 +18,5 @@ comments: true
 
 How she looks a yummy crepe?
 
-![Crepe](/img/1.jpg){: .center-block :}
+![Crepe](https://github.com/dadhichi1/dadhichi1.github.io/tree/master/img/1.jpg){: .center-block :}
 
